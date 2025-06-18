@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.2.1
+matplotlib==3.8.2
+python-dotenv==1.0.0
+folium==0.15.1
+streamlit-folium==0.15.1
+geopy==2.4.1
+streamlit-option-menu==0.3.6
+requests==2.31.0
+numpy>=1.26.0  # Critical: Must be >=1.26.0 for Python 3.13+ compatibility
