@@ -1,4 +1,8 @@
-﻿absl-py==2.1.0
+﻿# The following are required for main.py:
+# streamlit, pandas, matplotlib, python-dotenv, streamlit-folium, folium, geopy, streamlit-option-menu, requests
+# Add any missing ones below if not present.
+
+absl-py==2.1.0
 accelerate==1.5.2
 aiohappyeyeballs==2.6.1
 aiohttp==3.11.14
